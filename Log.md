@@ -7,6 +7,6 @@
 <strong> Thoughts:</strong> I'm very excited to complete this challenge. It was really fun.Happy Learning. 
 
 ## Day 2 july 12,2018
-<strong> Tooday's progress:</strong> I have implemnted Linear regression,learn about cost function and maths behind linear regression.     
+<strong> Tooday's progress:</strong> I have implemnted Linear regression,learned about cost function and maths behind it.     
 <strong> Thoughts:</strong> I faced many errors during implementation but I dubugged them.<br>
 <strong> Link of Work:</strong> <a href="https://github.com/imkhubaibraza/100DaysOfML/tree/master/Linear%20regression">Commit</a>
