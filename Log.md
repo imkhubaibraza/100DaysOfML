@@ -11,5 +11,5 @@
 <strong> Thoughts:</strong> I faced many errors during implementation but I dubugged them.<br>
 <strong> Link of Work:</strong> <a href="https://github.com/imkhubaibraza/100DaysOfML/tree/master/Linear%20regression">Commit</a>
 ## Day 3 | July 13,2018
-**Tooday's progress:** I learned about polynomial regression,feature normalization and [kaggle 7 days challenge](https://www.kaggle.com/colinmorris/learn-python-challenge-day-5) 5 days  
+**Tooday's progress:** I learned about polynomial regression,feature normalization and [kaggle 7 days challenge](https://www.kaggle.com/colinmorris/learn-python-challenge-day-5) upto 5 days  
 **Thoughts:** Well it was a busy day ,  but learn somthing about machine learning and watch youtube videos.
