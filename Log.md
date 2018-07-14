@@ -13,3 +13,7 @@
 ## Day 3 | July 13,2018
 **Tooday's progress:** I learned about polynomial regression,feature normalization and [kaggle 7 days challenge](https://www.kaggle.com/colinmorris/learn-python-challenge-day-5) upto 5 days  
 **Thoughts:** Well it was a busy day ,  but learn somthing about machine learning and watch youtube videos.
+## Day 4 | July 14,2018
+**Tooday's progress:** I watched some video tutorial on youtube and lynda, After that implemented Polynomial, multivariate regression and  feature Normalization  on dataset.<br>
+**Thoughts:** A day full of errors. :octocat: <br>
+**Link of Work:** [Commit](https://github.com/imkhubaibraza/100DaysOfML/tree/master/Polynomial%20Regression)
