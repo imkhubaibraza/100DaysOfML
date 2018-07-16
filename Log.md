@@ -17,3 +17,7 @@
 **Tooday's progress:** I watched some video tutorial on youtube and lynda, After that implemented Polynomial, multivariate regression and  feature Normalization  on dataset.<br>
 **Thoughts:** A day full of errors. :octocat: <br>
 **Link of Work:** [Commit](https://github.com/imkhubaibraza/100DaysOfML/tree/master/Polynomial%20Regression)
+## Day 5 | July 15,2018
+**Tooday's progress:** I read article [Linear Regression](https://medium.com/deep-math-machine-learning-ai/chapter-1-complete-linear-regression-with-math-25b2639dde23), [Multivariate Regression](https://towardsdatascience.com/building-a-multiple-linear-regression-model-and-assumptions-of-linear-regression-a-z-9769a6a0de42) and watched Youtube videos.Happy Sunday.<br>
+**Thoughts:** Well, I spent my sunday to learn something new.  I'm trying to develop good understanding of these basic models and teachniques  <br>
+**Link of someone effort: ** [Python Notes](https://github.com/imkhubaibraza/python_notes) by [Kanav Bansal](https://github.com/bansalkanav)
