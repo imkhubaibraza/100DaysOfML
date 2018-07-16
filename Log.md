@@ -20,4 +20,7 @@
 ## Day 5 | July 15,2018
 **Tooday's progress:** I read article [Linear Regression](https://medium.com/deep-math-machine-learning-ai/chapter-1-complete-linear-regression-with-math-25b2639dde23), [Multivariate Regression](https://towardsdatascience.com/building-a-multiple-linear-regression-model-and-assumptions-of-linear-regression-a-z-9769a6a0de42) and watched Youtube videos.Happy Sunday.<br>
 **Thoughts:** Well, I spent my sunday to learn something new.  I'm trying to develop good understanding of these basic models and teachniques  <br>
-**Link of someone effort: ** [Python Notes](https://github.com/imkhubaibraza/python_notes) by [Kanav Bansal](https://github.com/bansalkanav)
+**Link of someone effort:** [Python Notes](https://github.com/imkhubaibraza/python_notes) by [Kanav Bansal](https://github.com/bansalkanav)
+## Day 6 | July 16,2018
+**Tooday's progress:** Today, I tried to develop understanding of logistic regression. What can we do with Logistic regression. how is it differnet from linear regression, So I read some articles and watched youtube videos. Last but not the least, some time spent on statistics for good understanding of machine learning algorithms<br>
+**Thoughts:** Well, I"m excited to learn something new everyday. No doubt best challenge accepted.<br>
