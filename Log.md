@@ -24,3 +24,7 @@
 ## Day 6 | July 16,2018
 **Tooday's progress:** Today, I tried to develop understanding of logistic regression. What can we do with Logistic regression. how is it differnet from linear regression, So I read some articles and watched youtube videos. Last but not the least, some time spent on statistics for good understanding of machine learning algorithms<br>
 **Thoughts:** Well, I"m excited to learn something new everyday. No doubt best challenge accepted.<br>
+## Day 7 | July 17,2018
+**Tooday's progress:** Today, I focused on maths behind logistic regression. How can we understand things more clearly with maths and statistics. I will try to implement binary classification within one to two days. <br>
+**Thoughts:** Well, It's not easy to understand statistics and mathematics(my own thoughts). But when you grasped the concept and main idea behind the formula. You will feel easy with Machine learning algorithms and model<br>
+
